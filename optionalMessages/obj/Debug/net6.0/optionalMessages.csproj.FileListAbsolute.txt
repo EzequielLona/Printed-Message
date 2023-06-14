@@ -1,0 +1,15 @@
+C:\Users\Ezequiel_Lona\source\repos\optionalMessages\optionalMessages\bin\Debug\net6.0\optionalMessages.exe
+C:\Users\Ezequiel_Lona\source\repos\optionalMessages\optionalMessages\bin\Debug\net6.0\optionalMessages.deps.json
+C:\Users\Ezequiel_Lona\source\repos\optionalMessages\optionalMessages\bin\Debug\net6.0\optionalMessages.runtimeconfig.json
+C:\Users\Ezequiel_Lona\source\repos\optionalMessages\optionalMessages\bin\Debug\net6.0\optionalMessages.dll
+C:\Users\Ezequiel_Lona\source\repos\optionalMessages\optionalMessages\bin\Debug\net6.0\optionalMessages.pdb
+C:\Users\Ezequiel_Lona\source\repos\optionalMessages\optionalMessages\obj\Debug\net6.0\optionalMessages.csproj.AssemblyReference.cache
+C:\Users\Ezequiel_Lona\source\repos\optionalMessages\optionalMessages\obj\Debug\net6.0\optionalMessages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ezequiel_Lona\source\repos\optionalMessages\optionalMessages\obj\Debug\net6.0\optionalMessages.AssemblyInfoInputs.cache
+C:\Users\Ezequiel_Lona\source\repos\optionalMessages\optionalMessages\obj\Debug\net6.0\optionalMessages.AssemblyInfo.cs
+C:\Users\Ezequiel_Lona\source\repos\optionalMessages\optionalMessages\obj\Debug\net6.0\optionalMessages.csproj.CoreCompileInputs.cache
+C:\Users\Ezequiel_Lona\source\repos\optionalMessages\optionalMessages\obj\Debug\net6.0\optionalMessages.dll
+C:\Users\Ezequiel_Lona\source\repos\optionalMessages\optionalMessages\obj\Debug\net6.0\refint\optionalMessages.dll
+C:\Users\Ezequiel_Lona\source\repos\optionalMessages\optionalMessages\obj\Debug\net6.0\optionalMessages.pdb
+C:\Users\Ezequiel_Lona\source\repos\optionalMessages\optionalMessages\obj\Debug\net6.0\optionalMessages.genruntimeconfig.cache
+C:\Users\Ezequiel_Lona\source\repos\optionalMessages\optionalMessages\obj\Debug\net6.0\ref\optionalMessages.dll
